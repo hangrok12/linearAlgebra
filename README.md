@@ -1,1 +1,1 @@
-# linearAlgebra
+# Proofs in Linear Algebra Using Python
